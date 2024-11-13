@@ -1,0 +1,10 @@
+worlds["My World"] = "../server/data/world"
+
+renders["daytime"] = {
+    "world": "My World",
+    "title": "Daytime",
+    "rendermode": smooth_lighting,
+    "dimension": "overworld",
+}
+
+outputdir = "D:\DockerStuff\mc-servDownload\overviewer\output"
